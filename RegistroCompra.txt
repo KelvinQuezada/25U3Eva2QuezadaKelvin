@@ -1,0 +1,9 @@
+SU REGISTRO SON  
+ NOMBRE Y APELLIDO: 
+ AREA: 
+ DIRECCION: 
+ ARTEFACTO: 
+ MARCA: 
+ COLOR: 
+ PRECIO: 0
+------------------------------------------------------------------

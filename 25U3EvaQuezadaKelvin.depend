@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1630698089 source:c:\users\queza\onedrive\escritorio\programacion\25u3evaquezadakelvin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<wchar.h>
+	<locale.h>
+	<wchar.h>
+	"encabezadoMenuKPQB.h"
+	"estructuraFuncionKPQB.h"
+
+1630701108 c:\users\queza\onedrive\escritorio\programacion\25u3evaquezadakelvin\encabezadomenukpqb.h
+
+1630701517 c:\users\queza\onedrive\escritorio\programacion\25u3evaquezadakelvin\estructurafuncionkpqb.h
+
+1630701870 source:c:\users\queza\onedrive\escritorio\programacion\25u3eva2quezadakelvin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<wchar.h>
+	<locale.h>
+	<wchar.h>
+	"encabezadoMenuKPQB.h"
+	"estructuraFuncionKPQB.h"
+
+1630701992 c:\users\queza\onedrive\escritorio\programacion\25u3eva2quezadakelvin\encabezadomenukpqb.h
+
+1630701517 c:\users\queza\onedrive\escritorio\programacion\25u3eva2quezadakelvin\estructurafuncionkpqb.h
+
+1630701870 source:c:\users\queza\onedrive\escritorio\programacion\tercero\25u3eva2quezadakelvin\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<wchar.h>
+	<locale.h>
+	<wchar.h>
+	"encabezadoMenuKPQB.h"
+	"estructuraFuncionKPQB.h"
+
+1630701992 c:\users\queza\onedrive\escritorio\programacion\tercero\25u3eva2quezadakelvin\encabezadomenukpqb.h
+
+1630701517 c:\users\queza\onedrive\escritorio\programacion\tercero\25u3eva2quezadakelvin\estructurafuncionkpqb.h
+
